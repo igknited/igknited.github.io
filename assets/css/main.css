@@ -2105,7 +2105,7 @@
 	#one {
 	background: url("images"), url("../../images/one.jpg");
 	background-size: 256px 256px, cover;
-	background-position: top left, left left;
+	background-position: top left, left right;
 	}
 
 /* Two */
@@ -2114,7 +2114,7 @@
 		background: url("images"), url("../../images/two.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: top left, right left;
 	}
 #three {
 		background: url("images"), url("../../images/three.jpg");
